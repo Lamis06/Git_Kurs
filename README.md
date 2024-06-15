@@ -20,8 +20,8 @@ my first training at Git
 - "git status", "git add" (to staging) ,"git add *" oder "git add ." (all filse to staging) ,  "git reset" (to unstaging) , git commit -m "Beschreibung der Änderungen", man kann mehrere "git commit" hintereinander schreiben. [Youtube 4](https://www.youtube.com/watch?v=_ahnJcHuBW4&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=4).
 - git branch (main for local, origin for remot also im Git), git push remotename branchname, git remote -v. [Youtube 5](https://www.youtube.com/watch?v=G_NcIuspY4E&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=5)
 - git pull origin, clear ( to clear all im Fenster). [Youtube 6](https://www.youtube.com/watch?v=VP3c8ExvOP0&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=6)
--  not wichtig ! git config --l,  git help config, git config  --global user.email, git config  --global --edit. [Youtube 7](https://www.youtube.com/watch?v=NWnWIpoFVyU&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=7)
--  
+- not wichtig ! git config --l,  git help config, git config  --global user.email, git config  --global --edit. [Youtube 7](https://www.youtube.com/watch?v=NWnWIpoFVyU&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=7)
+- [Learn Pull Request With Real Examples](https://www.youtube.com/watch?v=n43bagVuJPU&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=10)
 
 ## Linux Befehle 
 [Seite zu Linux Befehle](https://www.linuxbefehle.de)
