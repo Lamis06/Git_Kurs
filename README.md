@@ -8,9 +8,9 @@ my first training at Git
 4. Remote Repository: Commits gespeichert und mit anderen geteilt.
 ### Git-Befehle für das Management dieser Areas
 1. Von Working Directory zur Staging Area: "git add <datei>" oder "git add ."
-2. Von Staging Area zum Local Repository:git commit -m "Beschreibung der Änderungen"
-3. Vom Local Repository zum Remote Repository:"git push origin main"
-4. Vom Remote Repository zum Local Repository:"git fetch origin" oder "git pull origin main"
+2. Von Staging Area zum Local Repository: "git commit -m "Beschreibung der Änderungen""
+3. Vom Local Repository zum Remote Repository: "git push origin main"
+4. Vom Remote Repository zum Local Repository: "git fetch origin" oder "git pull origin main"
 5. Von Local Repository zum Working Directory: "git checkout <branch>" oder "git merge <branch>"
    
 ## Basic writing and formatting syntax
