@@ -16,7 +16,7 @@ my first training at Git
 ## Basic writing and formatting syntax
 [diese Seite erklärt alle Befehle und Formatierung Abkurzung die man braucht ](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ## Command Git-Linux
-- "cd" (change directory),"cd .." (wechseln in das übergeordente Datei),"cd /d + D:\....."( Wechseln zwischen Laufwerken), "mkdir","git clone +link von Github Projekt", "dir",  [Youtube 3](https://www.youtube.com/watch?v=NZ4U9OZdtxk&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=3)
+- "cd" (change directory),"cd .." (wechseln in das übergeordente Datei),"cd /d + D:\....."( Wechseln zwischen Laufwerken), "mkdir": Erstellt Verzeichnisse (Ordner), "touch": Erstellt neue leere Dateien,"git clone +link von Github Projekt", "dir",  [Youtube 3](https://www.youtube.com/watch?v=NZ4U9OZdtxk&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=3)
 - "git status", "git add" (to staging) ,"git add *" oder "git add ." (all filse to staging) ,  "git reset" (to unstaging) , git commit -m "Beschreibung der Änderungen", man kann mehrere "git commit" hintereinander schreiben. [Youtube 4](https://www.youtube.com/watch?v=_ahnJcHuBW4&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=4).
 - git branch (main for local, origin for remot also im Git), git push remotename branchname, git remote -v. [Youtube 5](https://www.youtube.com/watch?v=G_NcIuspY4E&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=5)
 - git pull origin, clear ( to clear all im Fenster). [Youtube 6](https://www.youtube.com/watch?v=VP3c8ExvOP0&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=6)
