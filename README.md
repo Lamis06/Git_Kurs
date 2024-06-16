@@ -21,7 +21,10 @@ my first training at Git
 - git branch (main for local, origin for remot also im Git), git push remotename branchname, git remote -v. [Youtube 5](https://www.youtube.com/watch?v=G_NcIuspY4E&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=5)
 - git pull origin, clear ( to clear all im Fenster). [Youtube 6](https://www.youtube.com/watch?v=VP3c8ExvOP0&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=6)
 - not wichtig ! git config --l,  git help config, git config  --global user.email, git config  --global --edit. [Youtube 7](https://www.youtube.com/watch?v=NWnWIpoFVyU&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=7)
-- fork( also  eine Kopie eines Repositorys auf unserem eigenem Konto) [Youtube 10 Learn Pull Request With Real Examples](https://www.youtube.com/watch?v=n43bagVuJPU&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=10)
+- fork( also  eine Kopie eines Repositorys auf unserem eigenem Konto)
+-beim "Commit changes" unterscheidet sich 1- "Commit directly to the main branch":die Änderungen werden sofort in den Haupt-Branch (main) übernommen.
+2- "Create a new branch for this commit and start a pull request":erstellt einen neuen Branch mit deinen Änderungen und startet einen Pull Request.Empfohlen bei größen Projekten.
+[Youtube 10 Learn Pull Request With Real Examples](https://www.youtube.com/watch?v=n43bagVuJPU&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=10)
 
 ## Linux Befehle 
 [Seite zu Linux Befehle](https://www.linuxbefehle.de)
